@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vasu Patel</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
+<p>
+  <em>
+    I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>Drs. Kiran and Pallavi Patel Global University</b>, Vadoadra</a>. <br>
+    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+  </em>  
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasupatel5541&label=Profile%20views&color=0e75b6&style=flat" alt="vasupatel5541" /> </p>
 
