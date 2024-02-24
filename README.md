@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasu Patel</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<!-- <h3 align="center">A passionate Software Developer from India</h3> -->
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>Drs. Kiran and Pallavi Patel Global University</b>, Vadoadra</a>. <br>
