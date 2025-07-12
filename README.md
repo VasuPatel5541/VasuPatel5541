@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A passionate Software Developer from India</h3> -->
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>Drs. Kiran and Pallavi Patel Global University</b>, Vadoadra</a>. <br>
+    I am a 3rd Year undergraduate from <a href="https://kpgu.ac.in/"> <b>Drs. Kiran and Pallavi Patel Global University</b>, Vadoadra</a>. <br>
     A budding <b>Data Analytics</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
